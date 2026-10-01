@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indexing>
+ <paragraph index="9" node_type="writer">Name: Lia</paragraph>
+ <paragraph index="10" node_type="writer">Mental age: 20 </paragraph>
+ <paragraph index="11" node_type="writer">Status: King of water</paragraph>
+ <paragraph index="12" node_type="writer">Behaviour: She is always trying to make things perfect. </paragraph>
+ <paragraph index="13" node_type="writer">Combat level: Adept</paragraph>
+ <object index="17" name="Table1" object_type="table"/>
+ <paragraph index="19" node_type="writer" parent_index="17">atribute</paragraph>
+ <paragraph index="22" node_type="writer" parent_index="17">Stats (1-20)</paragraph>
+ <paragraph index="25" node_type="writer" parent_index="17">strength</paragraph>
+ <paragraph index="28" node_type="writer" parent_index="17">9</paragraph>
+ <paragraph index="31" node_type="writer" parent_index="17">Dexterity (reflexes, ahility)</paragraph>
+ <paragraph index="34" node_type="writer" parent_index="17">10</paragraph>
+ <paragraph index="37" node_type="writer" parent_index="17">Constitution (thoughness/stemina)</paragraph>
+ <paragraph index="40" node_type="writer" parent_index="17">20</paragraph>
+ <paragraph index="43" node_type="writer" parent_index="17">Intelligence</paragraph>
+ <paragraph index="46" node_type="writer" parent_index="17">19</paragraph>
+ <paragraph index="49" node_type="writer" parent_index="17">Wisdom</paragraph>
+ <paragraph index="52" node_type="writer" parent_index="17">13</paragraph>
+ <paragraph index="55" node_type="writer" parent_index="17">Charisma</paragraph>
+ <paragraph index="58" node_type="writer" parent_index="17">11</paragraph>
+ <paragraph index="64" node_type="writer">Rules (What he will never do):</paragraph>
+ <paragraph index="65" node_type="writer">Hurt innocent.</paragraph>
+ <paragraph index="66" node_type="writer">Wanting to fight</paragraph>
+ <paragraph index="69" node_type="writer">Dialog style:</paragraph>
+ <paragraph index="70" node_type="writer">Oke, so a king could theocratically die.</paragraph>
+ <paragraph index="71" node_type="writer">So in practice you would be more capable of taking such a daring fight.</paragraph>
+ <paragraph index="74" node_type="writer">Personality traits:</paragraph>
+ <paragraph index="75" node_type="writer">Kind</paragraph>
+ <paragraph index="76" node_type="writer">thoughtfull</paragraph>
+ <paragraph index="77" node_type="writer">smart</paragraph>
+</indexing>
