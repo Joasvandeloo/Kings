@@ -1,0 +1,3 @@
+{"version":"1.2.8","db_type":"idb","start_time":"2026-10-21T13:09:44.587Z","db_info":{"doc_count":1,"update_seq":1,"idb_attachment_format":"binary","db_name":"project-data","auto_compaction":false,"adapter":"idb"}}
+{"docs":[{"projectName":"kings","createdOnVersion":"0.1.15","_id":"projectSetup","_rev":"1-11baaf097d721d87e3965d71827c9929"}]}
+{"seq":1}
