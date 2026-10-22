@@ -19,7 +19,7 @@
     "fontSize": 100,
     "sidebarWidth": 304,
     "isSidebarVisible": true,
-    "isTocVisible": true,
+    "isTocVisible": false,
     "areInfoboxTagsVisible": true,
     "areFooterTagsVisible": false,
     "areLinkPreviewsEnabled": true,

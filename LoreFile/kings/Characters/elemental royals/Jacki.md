@@ -1,4 +1,6 @@
-tags: [Fire, powerfull, Katana, fire, King]
+---
+tags: [Jacki, wind, king of wind]
+---
 
 **Name: Jacki**
 

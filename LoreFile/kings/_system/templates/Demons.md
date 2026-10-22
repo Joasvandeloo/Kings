@@ -1,4 +1,6 @@
-tags: [Fire, powerfull, Katana, fire, King]
+---
+tags: [King of dark lords, evil, dark lords]
+---
 
 **Name:**
 

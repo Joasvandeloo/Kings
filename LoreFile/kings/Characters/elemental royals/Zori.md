@@ -1,29 +1,31 @@
-tags: [Fire, powerfull, Katana, fire, King]
+---
+tags: [Brine, Zori, princess]
+---
 
-**Name:**
+**Name: Zori**
 
-**Mental age/age:**
+**Mental age/age: 15**
 
-**Gender:**
+**Gender: female**
 
-**Ethnicity:**
+**Ethnicity: Clearwater**
 
-**Status (King of ....):**
+**Status (King of ....): princess of lightning**
 
-**king weapon:**
+**king weapon: her staff**
 
-**Combat level:** 
+**Combat level: apprentice** 
 
 ---
 **stats:**
 | atribute | stats (1-20) |
 |-----------|--------------|
-|strength| 1-20 |
-|Dexterity (reflexes, agility)| 1-20 |
-|Constitution (toughness/stamina)| 1-20 |
-|Intelligence| 1-20 |
-|Wisdom| 1-20 |
-|Charisma| 1-20 |
+|strength| 9 |
+|Dexterity (reflexes, agility)| 13 |
+|Constitution (toughness/stamina)| 16 |
+|Intelligence| 17 |
+|Wisdom| 12 |
+|Charisma| 17 |
 
 ---
 
@@ -31,68 +33,72 @@ tags: [Fire, powerfull, Katana, fire, King]
 
 |atribute|answer|
 |-|-|
-|Eye color:|example|
-|Skin color:|example|
-|Hair color:|example|
-|Height:|example|
-|Body type:|example|
-|Body  art:|example|
-|Scars:|example|
-|Disabilities:|example|
-|Fashion style:|example|
-|accessories:|example|
-|Posture:|example|
+|Eye color:|green|
+|Skin color:|pale|
+|Hair color:|red|
+|Height:|1.6m|
+|Body type:|normal|
+|Body  art:|none|
+|Scars:|none|
+|Disabilities:|none|
+|Fashion style:|dark cloack with hood, or black with outfit with hat|
+|accessories:|small knife|
+|Posture:|straight|
 
 ---
 
 **history**
 |atribute|answer|
 |-|-|
-|Place of appearance/birth:|example|
-|Key family members:|example|
-|affiliations:|example|
+|Place of appearance/birth:|clearwater|
+|Key family members:|mother, dad, Marcel|
+|affiliations:|clearwater|
 
 ---
 
 |kill|year|
 |-|-|
-|Kill:|example|
+|Xiar:|example|
 
 ---
 
 **relationships**
 |person|type relationship|aditional info|
 |-|-|-|
-|example|example|example|
+|ex|example|example|
 
 ---
 
 **character growth**
 |type|answer|
 |-|-|
-|example|example|
+|arc 1|killing Xiar|
+|dead parrents|she lost her parrents, she didn't know they were dead for a long time.|
 
 ---
 
 **Rules (What he will never do):**
-- **example**
+- **hurt inocent**
+- **lie to Marcel or Brine**
 
 ---
 
 **Dialog style:**
-- **Joas is great**
+- **energatic**
+- **sometimes cold**
 
 ---
 
 **personality traits:**
-- **example**
+- **funny**
+- **has a cold side**
 
 --
 
 **weakness:**
--
+- **mental instability**
 
 ---
 
 **aditional notes**
-- **example**
+- **Her parrents were killed**

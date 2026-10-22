@@ -1,4 +1,6 @@
-tags: [Fire, powerfull, Katana, fire, King]
+---
+tags: [Fire, powerfull, kind, katana]
+---
 
 **Name: Fire**
 

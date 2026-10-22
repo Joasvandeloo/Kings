@@ -1,4 +1,6 @@
-tags: [Fire, powerfull, Katana, fire, King]
+---
+tags: [King of dark lords, evil, dark lords]
+---
 
 **Name:**
 
@@ -44,7 +46,6 @@ tags: [Fire, powerfull, Katana, fire, King]
 **history**
 |atribute|answer|
 |-|-|
-|Birthdate:|example|
 |Place of brith:|example|
 |Key family members:|example|
 |affiliations:|example|

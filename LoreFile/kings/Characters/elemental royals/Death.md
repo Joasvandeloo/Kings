@@ -1,4 +1,6 @@
-tags: [Death, dead, death, king of death]
+---
+tags: [death, mysterious, greatsword]
+---
 
 **Name: Death**
 

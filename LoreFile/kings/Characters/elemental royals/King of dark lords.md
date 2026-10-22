@@ -1,4 +1,6 @@
-tags: [King of dark lords, evil, dark lord, skelleton, mysterious]
+---
+tags: [King of dark lords, evil, dark lords]
+---
 
 **Name: king of dark lords**
 

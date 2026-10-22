@@ -1,4 +1,6 @@
-tags: [Fire, powerfull, Katana, fire, King]
+---
+tags: [lightning, Brine, king of lightning]
+---
 
 **Name: Brine**
 
@@ -6,7 +8,7 @@ tags: [Fire, powerfull, Katana, fire, King]
 
 **Gender: male**
 
-**Ethnicity: europian**
+**Ethnicity: **
 
 **Status (King of ....): king of lightning, reality hacker**
 
@@ -50,7 +52,7 @@ tags: [Fire, powerfull, Katana, fire, King]
 |-|-|
 |Place of appearance:|a temple, not much more i known|
 |Key family members:|none|
-|affiliations:|none|
+|affiliations:|clearwater|
 
 ---
 
@@ -63,7 +65,14 @@ tags: [Fire, powerfull, Katana, fire, King]
 **relationships**
 |person|type relationship|aditional info|
 |-|-|-|
-|example|example|example|
+|[[Death]]|It's his master|they have a weird relationship|
+|[[Fire]]|Best friend|they are a very good team|
+|[[Jacki]]|Knows him from Fire, like eachother|they have a good friendship|
+|[[Lia]]|Knows him from Fire|they have a weird relationship|
+|[[Zori]]|she is his aprentice|he cares for her|
+|[[King of dark lords]]|enemy of Fire, enemy of him|he hates him|
+|[[Lord Xiar]]|enemies|he hates him for taking Clearwater|
+|[[Marcel]]|friends|he respects him and protects Zori for him|
 
 ---
 
