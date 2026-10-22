@@ -1,6 +1,6 @@
 {
   "vaultSettings": {
-    "activeTheme": "light",
+    "activeTheme": "slate-and-gold",
     "atmosphere": {
       "icons": "core",
       "buttons": "core",
@@ -14,8 +14,8 @@
       "clickEffects": "core",
       "textureOpacity": 0.3
     },
-    "headingFont": "\"Cinzel\", cursive",
-    "bodyFont": "\"Junicode\", serif",
+    "headingFont": "\"Cinzel\", serif",
+    "bodyFont": "\"Spectral\", serif",
     "fontSize": 100,
     "sidebarWidth": 304,
     "isSidebarVisible": true,

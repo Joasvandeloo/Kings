@@ -10,6 +10,8 @@ tags: [Fire, powerfull, Katana, fire, King]
 
 **Status (King of ....):**
 
+**king weapon:**
+
 **Combat level:** 
 
 ---
