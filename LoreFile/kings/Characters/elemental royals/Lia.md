@@ -1,4 +1,4 @@
-tags: [Fire, powerfull, Katana, fire, King]
+tags: [water, king, kind, Lia]
 
 **Name: Lia**
 
@@ -9,6 +9,8 @@ tags: [Fire, powerfull, Katana, fire, King]
 **Ethnicity: Old egypt**
 
 **Status (King of ....): King of water**
+
+**king weapon: spear**
 
 **Combat level: Adept** 
 
@@ -48,7 +50,6 @@ tags: [Fire, powerfull, Katana, fire, King]
 |-|-|
 |Place of appearance:|temple in egypt|
 |Key family members:|none|
-|Criminal record:|probably high|
 |affiliations:|ancient egyptions|
 
 ---

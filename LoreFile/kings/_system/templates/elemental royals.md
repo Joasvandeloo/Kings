@@ -48,7 +48,6 @@ tags: [Fire, powerfull, Katana, fire, King]
 |-|-|
 |Place of appearance/birth:|example|
 |Key family members:|example|
-|Criminal record:|example|
 |affiliations:|example|
 
 ---

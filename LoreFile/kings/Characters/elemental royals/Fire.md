@@ -10,6 +10,8 @@ tags: [Fire, powerfull, Katana, fire, King]
 
 **Status (King of ....): King of Fire**
 
+**king weapon: katana**
+
 **Combat level: At least legendary master** 
 
 ---
@@ -48,7 +50,6 @@ tags: [Fire, powerfull, Katana, fire, King]
 |-|-|
 |Place of appearance:|unknown|
 |Key family members:|none|
-|Criminal record:|probably high|
 |affiliations:|none|
 
 ---
