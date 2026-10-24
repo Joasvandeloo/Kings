@@ -65,7 +65,12 @@ tags: [Fire, powerfull, kind, katana]
 **relationships**
 |person|type relationship|aditional info|
 |-|-|-|
-|example|example|example|
+|[[Death]]|He's his master|none|
+|[[Brine]]|They are very good friend|they fight really good in a team|
+|[[Jacki]]|are friends|they like eaach other|
+|[[King of dark lords]]|He's hates him for trying to get him|He's gonna kill him
+|[[Lia]]|Are really good friends|He gives A LOT about her|
+|[[Zori]]|Knows her as Brine's aprentice|doesn't know her well|
 
 ---
 

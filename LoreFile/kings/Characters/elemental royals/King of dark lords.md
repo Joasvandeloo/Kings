@@ -65,7 +65,10 @@ tags: [King of dark lords, evil, dark lords]
 **relationships**
 |person|type relationship|aditional info|
 |-|-|-|
-|none|example|example|
+|[[Fire]]|Wants him dead|If he dies Death will make an apearance|
+|[[Brine]]|wants him dead|he keeps helping [[Fire]] so he gets to die to|
+|[[Jacki]]|Waste of time to kill|He finds him a minor inconvenince|
+|[[Lia]]|waste of time to kill|she is just anoyinly trying to protect [[Fire]]|
 
 ---
 

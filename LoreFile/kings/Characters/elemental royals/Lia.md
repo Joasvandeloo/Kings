@@ -65,7 +65,7 @@ tags: [Lia, king of water, water]
 **relationships**
 |person|type relationship|aditional info|
 |-|-|-|
-|example|example|example|
+|[[Fire]]|Best friend|they are a very good team|
 
 ---
 

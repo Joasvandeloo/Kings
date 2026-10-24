@@ -65,7 +65,10 @@ tags: [Jacki, wind, king of wind]
 **relationships**
 |person|type relationship|aditional info|
 |-|-|-|
-|example|example|example|
+|[[Fire]]|He's his friend|they travel and have fun together|
+|[[Brine]]|He's knows him from Fire|He likes the guy|
+|[[Lia]]|he travels with her|finds her boring|
+|[[Zori]]|Knows her from Brine|theey are good friends|
 
 ---
 

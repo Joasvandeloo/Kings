@@ -1,4 +1,6 @@
-tags: [Fire, powerfull, Katana, fire, King]
+---
+tags: [Xiar, Lord Xiar, dark]
+---
 
 **Name: Xiar**
 

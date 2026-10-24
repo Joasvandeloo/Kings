@@ -65,7 +65,9 @@ tags: [death, mysterious, greatsword]
 **relationships**
 |person|type relationship|aditional info|
 |-|-|-|
-|example|example|example|
+|[[Brine]]|He's his aprentice|he convinced him to take on an aprentice|
+|[[Fire]]|He's his aprentice|none|
+|[[Zori]]|Knows her because she's the aprentice of [[Brine]]|none|
 
 ---
 
