@@ -1,5 +1,5 @@
 ---
-tags: [Brine, Zori, princess]
+tags: [Brine, Zori, princess, Clearwater]
 ---
 
 **Name: Zori**
@@ -10,7 +10,7 @@ tags: [Brine, Zori, princess]
 
 **Ethnicity: Clearwater**
 
-**Status (King of ....): princess of lightning**
+**Status (King of ....): princess of lightning and mage**
 
 **king weapon: her staff**
 
@@ -65,7 +65,12 @@ tags: [Brine, Zori, princess]
 **relationships**
 |person|type relationship|aditional info|
 |-|-|-|
-|ex|example|example|
+|[[Brine]]|He is her master|she is his princess of lightning|
+|[[Death]]|She has met him once|she finds him mysterious|
+|[[Fire]]|Met him as Brine's friend|She has heared the stories about him|
+|[[Jacki]]|Best friends|they met each other in new clearwater, they like eachother|
+|[[Lord Xiar]]|Her biggest enemy|he killed her parrents|
+|[[Marcel]]|Her adopted father|they trust eachother fully|
 
 ---
 

@@ -61,7 +61,9 @@ tags: [Marcel, Clearwater, knight]
 **relationships**
 |person|type relationship|aditional info|
 |-|-|-|
-|example|example|example|
+|[[Brine]]|friends|he helps taking back the kingdom|
+|[[Zori]]|adopted daughter|he cares for her|
+|[[Lord Xiar]]|enemies|they fight about clearwater|
 
 ---
 

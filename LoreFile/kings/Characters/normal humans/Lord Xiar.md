@@ -1,5 +1,5 @@
 ---
-tags: [Xiar, Lord Xiar, dark]
+tags: [Xiar, Lord Xiar, dark, Clearwater]
 ---
 
 **Name: Xiar**
@@ -61,7 +61,9 @@ tags: [Xiar, Lord Xiar, dark]
 **relationships**
 |person|type relationship|aditional info|
 |-|-|-|
-|example|example|example|
+|[[Brine]]|hates him|he tries to take his kingdom|
+|[[Zori]]|Killer|he dies to her|
+|[[Marcel]]|enemies|he stole cearwater from marcel|
 
 ---
 

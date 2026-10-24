@@ -66,6 +66,8 @@ tags: [Lia, king of water, water]
 |person|type relationship|aditional info|
 |-|-|-|
 |[[Fire]]|Best friend|they are a very good team|
+|[[Brine]]|Knows him as Fire's friend|they don't know eachother that well|
+|[[Jacki]]|friends|she hates it when he's inresponsibel|
 
 ---
 
