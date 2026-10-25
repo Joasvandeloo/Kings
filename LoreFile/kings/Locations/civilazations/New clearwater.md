@@ -14,7 +14,7 @@ tags: [clearwater, Zori, Marcel, Brine, Lord Xiar]
 
 **Ruler: [[Zori]]**
 
-**Population: 15.000**
+**Population: 5.000**
 
 ---
 

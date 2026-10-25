@@ -4,15 +4,15 @@ tags: [clearwater, Zori, Marcel, Brine, Lord Xiar]
 
 **Place name: Clearwater**
 
-**Dimension/planet: in the dimension of Clearwater [[Brine]] made**
+**Dimension/planet: earth**
 
-**Part of world: europe**
+**Part of world: north-europe**
 
-**Climate: sky-climate, simular to sea-climate.**
+**Climate: can be cold in winter, a few warm days in somer**
 
-**Recources: Nothing**
+**Recources: Wood, farmland**
 
-**Ruler: [[Zori]]**
+**Ruler: [[Lord Xiar]], before that [[Marcel]]**
 
 **Population: 15.000**
 
@@ -25,7 +25,7 @@ tags: [clearwater, Zori, Marcel, Brine, Lord Xiar]
 
 ---
 **Rivals:**
-- **after [[Xiar]] takeover: [[brine]], [[Marcel]] and [[Zori]] **
+- **after [[Lord Xiar]] takeover: [[brine]], [[Marcel]] and [[Zori]] **
 - **before [[Lord Xiar]] takeover: [[Lord Xiar]]**
 
 ---
