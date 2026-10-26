@@ -29,6 +29,12 @@ tags: [clearwater, Zori, Marcel, Brine, Lord Xiar]
 - **before [[Lord Xiar]] takeover: [[Lord Xiar]]**
 
 ---
+**Ranks (low to high):**
+- **civilian**
+- **guards**
+- **ruler**
+
+---
 **Import:**
 - **steel, weapons and magical items**
 

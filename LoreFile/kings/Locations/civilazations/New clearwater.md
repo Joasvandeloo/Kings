@@ -26,6 +26,13 @@ tags: [clearwater, Zori, Marcel, Brine, Lord Xiar]
 - **none yet**
 
 ---
+**Ranks (low to high):**
+- **Civilian**
+- **champions**
+- **Kings**
+- **Ruler**
+
+---
 **Import:**
 - **steel, weapons and magical items**
 
