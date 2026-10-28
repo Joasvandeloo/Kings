@@ -25,7 +25,7 @@ tags: [clearwater, Zori, Marcel, Brine, Lord Xiar]
 
 ---
 **Rivals:**
-- **after [[Lord Xiar]] takeover: [[brine]], [[Marcel]] and [[Zori]] **
+- **after [[Lord Xiar]] takeover: [[brine]], [[Marcel]] and [[Zori]]**
 - **before [[Lord Xiar]] takeover: [[Lord Xiar]]**
 
 ---
