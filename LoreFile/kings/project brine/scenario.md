@@ -32,7 +32,7 @@ go to Xiar's castle to investigate
 what will happen:
 
 Jin acedently attacks his code with the magic from hell and he almost dies
-Find out the deal between the demon zetamos and Xiar.
+Find out the deal between the demon zettamos and Xiar.
 Jin convinces him to take [[Zori]] as his apprentice.
 He'll have to fight an apprentice of the demon
 
@@ -48,6 +48,11 @@ what she'll do:
 Train with Brine
 After getting told by Brine she confesses to [[Marcel]] abou her parrents
 
+what will happen:
+
+She'll tell Marcel.
+She gets more determined to kill Xiar
+
 **[[Death]]:**
 
 Wants [[Brine]] to make [[Zori]] his apprentice
@@ -58,6 +63,10 @@ what he'll do:
 nothing.
 he tried getting the idea to [[Brine]]
 
+what will happen:
+
+He will get his way
+
 **[[Marcel]]:**
 
 Has noticed something is up with [[Zori]]
@@ -65,6 +74,11 @@ Has noticed something is up with [[Zori]]
 what he'll do:
 
 doesn't want to go ask [[Zori]] yet
+
+what will happen:
+
+Zori tells him what death told her.
+
 
 **[[Jin]]:**
 
@@ -75,3 +89,9 @@ What she'll do:
 
 not tell [[Brine]] about wanting to go to hell
 go with [[Brine]] trough [[Lord Xiar]] castle
+
+what will happen:
+
+she'll fight a demonic with Bine.
+Comfort Brine after him not being used to figh demonics
+She'll be able to go home.
