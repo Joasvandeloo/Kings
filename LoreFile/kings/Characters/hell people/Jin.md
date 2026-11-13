@@ -36,7 +36,7 @@ tags: [people of hell]
 |Hair color:|red|
 |Height:|1.7m|
 |Body type:|normal|
-|Body  art:|Brand mark of a demon face on her back.|
+|Body  art:|Brand mark of a demon skull on her back.|
 |Scars:|a big scar of a cut or scratch on her right-arm.|
 |Disabilities:|none|
 |Fashion style:|Red functional still good looking clothes. red stands for the [[hell people]]|accessories:|none|
