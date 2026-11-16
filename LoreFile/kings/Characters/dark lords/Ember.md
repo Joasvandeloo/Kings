@@ -82,17 +82,20 @@ tags: [King of dark lords, evil, dark lords]
 ---
 
 **Dialog style:**
-- **Joas is great**
+- **You think you can beat ME!**
+- **Such a bold claim, but maybe stupid instead of bold.**
 
 ---
 
 **personality traits:**
-- **example**
+- **Cold**
+- **Dangerous**
+- **Sillent**
 
 --
 
 **weakness:**
--
+- she is easy to convince
 
 ---
 
