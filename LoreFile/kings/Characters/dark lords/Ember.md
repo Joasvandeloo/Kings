@@ -100,4 +100,4 @@ tags: [King of dark lords, evil, dark lords]
 ---
 
 **aditional notes**
-- **example**
+- **She always rides horses without horse gear.**
